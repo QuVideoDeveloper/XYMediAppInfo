@@ -1,0 +1,11 @@
+source 'https://cdn.cocoapods.org/'
+platform :ios, '9.0'
+
+target 'XYMediAppInfo_Example' do
+  pod 'XYMediAppInfo', :path => '../'
+
+  target 'XYMediAppInfo_Tests' do
+    inherit! :search_paths
+    
+  end
+end

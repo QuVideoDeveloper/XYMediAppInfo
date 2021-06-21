@@ -1,0 +1,6 @@
+module XYMediAppInfo {
+  umbrella header "XYMediAppInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}

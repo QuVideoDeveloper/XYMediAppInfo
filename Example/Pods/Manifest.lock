@@ -1,0 +1,16 @@
+PODS:
+  - XYMediAppInfo (0.0.8)
+
+DEPENDENCIES:
+  - XYMediAppInfo (from `../`)
+
+EXTERNAL SOURCES:
+  XYMediAppInfo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYMediAppInfo: 488be2df8af4167db68bcb7612e8fb8d3f96c8b8
+
+PODFILE CHECKSUM: d037f82e6f5dfe09d266ca381f6cb63cc0784988
+
+COCOAPODS: 1.10.1
