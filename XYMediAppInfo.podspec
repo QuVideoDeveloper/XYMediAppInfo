@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/QuVideoInc/XYMediAppInfo'
   s.license          = { :type => 'GPL', :file => 'LICENSE' }
   s.author           = { 'gitsource' => 'gitsource@quvideo.com' }
-  s.source           = { :git => 'git@github.com:QuVideoInc/XYMediAppInfo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/QuVideoInc/XYMediAppInfo.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
 
   s.source_files = "#{s.name}/Classes/**/*"
