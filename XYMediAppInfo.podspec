@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'XYMediAppInfo'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '提供中台组件使用的App基本信息，例如区域、国家、产品id等'
   s.homepage         = 'https://github.com/QuVideoInc/XYMediAppInfo'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
