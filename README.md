@@ -38,4 +38,4 @@ longbin.lai, longbin.lai@quvideo.com
 
 ## License
 
-XYMediAppInfo is available under the GPL license. See the LICENSE file for more info.
+XYMediAppInfo is available under the MIT license. See the LICENSE file for more info.
